@@ -21,10 +21,10 @@ Nobody can give you an exact date at the start. What follows should help you wor
 ## The short answer
 
 - Before you can apply, you need to value the estate and, in many cases, deal with inheritance tax paperwork. This stage alone often takes a few weeks to a few months.
-- The court then reviews the application and issues the grant. Official processing times change, so check the current figure on gov.uk before you promise anyone a date.
+- The court then reviews the application and issues the grant. Recent figures put the average at around five weeks from application to grant, with complete online applications generally quicker than paper ones. Applications that are stopped because information is missing can take many months longer. Times change month to month, so check the current figures on gov.uk.
 - After the grant, most executors need at least several months to finish. A common rule of thumb among solicitors is around six to twelve months from the date of death for a straightforward estate.
 
-<!-- TODO: verify and, if possible, quote the current HMCTS/gov.uk typical processing time for online and paper probate applications. Do not publish a specific number of weeks until checked. -->
+<!-- TODO: "around five weeks" comes from an ICAEW summary (22 Oct 2026) of HMCTS probate user group data, not from HMCTS directly. An earlier ICAEW update (June 2026) gave about 4.3 weeks online and about 16 weeks paper. Confirm against HMCTS management information on gov.uk and date-stamp the figure, or remove it. -->
 
 ## The stages, and how long each tends to take
 

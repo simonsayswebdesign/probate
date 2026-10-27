@@ -5,9 +5,9 @@ Inline `TODO` markers in each file are the source of truth: `grep -rn TODO proba
 ## Probate application fee (unverified at source)
 gov.uk was unreachable when written. Law-firm summaries report the following; confirm all on gov.uk
 (wills-probate-inheritance/applying-for-a-grant-of-representation):
-- [ ] GBP 526 from 13 July 2026 (was GBP 300)
+- [ ] GBP 526 from 13 July 2026 (was GBP 300): reported by several law firms and the Gazette, but some pages still show GBP 300, so confirm on gov.uk
 - [ ] No fee at or below GBP 5,000
-- [ ] Extra grant copies GBP 2 with the application, GBP 16 later
+- [ ] Extra grant copies GBP 2 with the application, GBP 16 later (sources conflict)
 
 ## Calculator (`calculator/probate-cost.js`): all assumptions
 - [ ] Legal fee percentages (1% to 5%), floors and ceilings: check against 10 to 20 solicitor price lists
@@ -19,10 +19,10 @@ gov.uk was unreachable when written. Law-firm summaries report the following; co
 
 ## Copy
 - [ ] Cost page: fill the "rough total cost" table (currently placeholders); sourced percentage-fee range; valuation range
-- [ ] Timing page: current official grant processing time; death registration deadlines (5 days E&W, 8 Scotland); IHT due date and interest; executor's year; IHT instalment option
+- [ ] Timing page: grant processing time now says "around five weeks" (secondary source: ICAEW summary of HMCTS data, Oct 2026), confirm on gov.uk and date-stamp; death registration deadlines (5 days E&W, 8 Scotland); IHT due date and interest; executor's year; IHT instalment option
 - [ ] Do I need probate: joint tenants vs tenants in common; DVLA position on cars; Land Registry register fee
-- [ ] Contesting a will: solicitor review of whole page; six-month limit for 1975 Act claims and extension; caveat period and fee; who can claim; do not state costs or "no win no fee" unless sourced
-- [ ] IHT nil-rate band GBP 325,000, residence nil-rate band, and freeze period
+- [ ] Contesting a will: solicitor review of whole page; six-month limit for 1975 Act claims and extension; caveat period (six months, renewable, consistent across secondary sources) and current fee (conflicting figures found); who can claim; do not state costs or "no win no fee" unless sourced
+- [ ] IHT nil-rate band GBP 325,000, residence nil-rate band GBP 175,000, frozen to April 2031 (reported by Deloitte and trade press after Autumn Budget 2025; confirm on gov.uk)
 - [ ] SRA price transparency rules; Legal Ombudsman time limits; VAT treatment
 
 ## Lead form, privacy and referral disclosure
