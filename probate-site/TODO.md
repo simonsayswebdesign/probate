@@ -40,3 +40,9 @@ gov.uk was unreachable when written. Law-firm summaries report the following; co
 
 ## Scope
 - [ ] England and Wales only. Scotland and Northern Ireland need separate copy and fees, or a postcode block
+
+## New pages (probate-without-a-will, what-does-an-executor-do, selling-a-house-in-probate)
+- [ ] Intestacy order of inheritance and any spouse threshold figure (not stated): confirm on gov.uk
+- [ ] Order of priority for administrators; when an administration bond or guarantee is needed
+- [ ] Executors: limit of four on a grant; renunciation wording; effect of creditor notices
+- [ ] Selling a house: council tax exemption for properties in probate; CGT treatment of personal representatives and any reporting deadlines; empty-property insurance wording
