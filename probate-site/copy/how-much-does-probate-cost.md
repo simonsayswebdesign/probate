@@ -44,7 +44,7 @@ Some firms charge a percentage of the estate value, plus VAT. This is easy to un
 
 VAT at 20% is normally added to legal fees. <!-- TODO: confirm VAT treatment with a solicitor. -->
 
-Firms are required to publish certain pricing information for probate services, including details of their fees, what is and is not included, and the likely timescale. Use those pages to compare. <!-- TODO: solicitor to confirm the exact SRA transparency requirements for probate before this sentence is kept. -->
+Solicitors who advertise uncontested probate must publish price and service information on their website. That includes a total cost (or an average or range), how fees are calculated, likely disbursements, whether VAT is included, what the price covers and what it does not, and the key stages and timescales. Use those pages to compare. <!-- TODO: based on SRA transparency guidance seen via search, not read in full. Re-check on sra.org.uk. -->
 
 ## 3. Valuation costs
 
@@ -130,7 +130,7 @@ Yes, properly incurred costs are normally paid from the estate before beneficiar
 
 ### What if I think the solicitor's bill is too high?
 
-Raise it with the firm first, using their complaints procedure. If you are not satisfied, you may be able to go to the Legal Ombudsman. Ask the solicitor for a breakdown and compare it with the quote. <!-- TODO: confirm Legal Ombudsman time limits before giving any dates. -->
+Raise it with the firm first, using their complaints procedure. If you are not satisfied, you may be able to go to the Legal Ombudsman, which has time limits (reported as one year from the problem or from when you should have realised, or six months from the firm's final response). Ask the solicitor for a breakdown and compare it with the quote. <!-- TODO: time limits come from secondary sources describing the April 2023 rules. Confirm on legalombudsman.org.uk. -->
 
 ---
 

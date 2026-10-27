@@ -52,7 +52,7 @@ The court looks at factors such as the applicant's needs, the size of the estate
 
 Time limits matter, and some are short. For claims under the 1975 Act, the usual period is six months from the date the grant of probate or administration is issued, although the court can sometimes allow late claims in limited circumstances. For other types of challenge, there may not be a single fixed limit, but delay can weaken a case and make it harder to prove. A solicitor can tell you which deadline applies and when it expires.
 
-<!-- TODO: solicitor to confirm the six-month period and the court's discretion to extend. Do not state any other time limits without checking. -->
+<!-- TODO: six months from the first grant (s.4 of the 1975 Act) and the court's discretion to extend are consistent across the law-firm and case-law sources found. Solicitor to confirm final wording. Do not state any other time limits without checking. -->
 
 ## Entering a caveat
 

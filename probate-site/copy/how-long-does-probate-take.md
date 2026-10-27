@@ -30,7 +30,7 @@ Nobody can give you an exact date at the start. What follows should help you wor
 
 ### 1. Registering the death and finding the will
 
-You need the death certificate before anything else. Registration is normally done within five days of the death in England and Wales (eight days in Scotland). Then you need to find the original will, if there is one. Hunting for a missing will can add weeks.
+You need the death certificate before anything else. In England and Wales, gov.uk says you must register the death within five days of being contacted by the medical examiner's office (eight days in Scotland), and that includes weekends and bank holidays. If the death is referred to the coroner, the process is different. Then you need to find the original will, if there is one. Hunting for a missing will can add weeks.
 
 ### 2. Valuing the estate
 
@@ -38,7 +38,7 @@ You need to find out what the person owned and owed on the date they died: bank 
 
 ### 3. Inheritance tax and the application forms
 
-Most estates do not pay inheritance tax, but you still have to report the value to HMRC in some form. Where a full report is needed, it can take time to pull together. If tax is due, it must be paid, or arrangements made for paying it, before the court will normally issue the grant. For estates with a property that cannot yet be sold, there are ways to pay in instalments.
+Most estates do not pay inheritance tax, but you still have to report the value to HMRC in some form. Where a full report is needed, it can take time to pull together. If tax is due, it must be paid, or arrangements made for paying it, before the court will normally issue the grant. For some assets, such as property, tax can sometimes be paid in yearly instalments, and the rules on interest are specific, so ask HMRC or a solicitor.
 
 ### 4. Applying for the grant
 
@@ -123,11 +123,11 @@ If an executor is not acting, beneficiaries can write to them asking for an upda
 
 <!--
 FACT-CHECK LIST (remove before publishing)
-- Registration deadlines (5 days England and Wales, 8 days Scotland): confirm on gov.uk.
+- Registration deadline: wording now follows a gov.uk page seen via search (5 days from medical examiner contact in E&W, 8 days Scotland). Re-confirm on gov.uk.
 - Typical HMCTS processing time for grants: not stated above, needs a verified current figure.
 - Inheritance tax due date (six months after end of month of death) and interest: confirm on gov.uk.
 - Executor's year: confirm wording with a solicitor.
 - Banks releasing small sums without a grant: say "each bank sets its own limit", no specific figure used.
 - Caveat duration (six months, renewable): checked in text as "limited period"; confirm exact period if made specific.
-- Instalment option for tax on property: confirm still available and conditions.
+- Instalment option for property (ten annual instalments reported; interest treatment varies by source and an April 2026 change for relieved business/agricultural assets was reported but not confirmed): confirm on gov.uk.
 -->

@@ -19,11 +19,11 @@ gov.uk was unreachable when written. Law-firm summaries report the following; co
 
 ## Copy
 - [ ] Cost page: fill the "rough total cost" table (currently placeholders); sourced percentage-fee range; valuation range
-- [ ] Timing page: grant processing time now says "around five weeks" (secondary source: ICAEW summary of HMCTS data, Oct 2026), confirm on gov.uk and date-stamp; death registration deadlines (5 days E&W, 8 Scotland); IHT due date and interest; executor's year; IHT instalment option
+- [ ] Timing page: grant processing time now says "around five weeks" (secondary source: ICAEW summary of HMCTS data, Oct 2026), confirm on gov.uk and date-stamp; death registration (now worded as 5 days from medical examiner contact, 8 Scotland); IHT due date (six months after end of month of death, consistent across sources) and interest; executor's year; IHT instalment option and interest
 - [ ] Do I need probate: joint tenants vs tenants in common; DVLA position on cars; Land Registry register fee
-- [ ] Contesting a will: solicitor review of whole page; six-month limit for 1975 Act claims and extension; caveat period (six months, renewable, consistent across secondary sources) and current fee (conflicting figures found); who can claim; do not state costs or "no win no fee" unless sourced
+- [ ] Contesting a will: solicitor review of whole page; six-month 1975 Act limit and court discretion to extend (consistent across secondary sources, wording now in the page); caveat period (six months, renewable, consistent across secondary sources) and current fee (conflicting figures found); who can claim; do not state costs or "no win no fee" unless sourced
 - [ ] IHT nil-rate band GBP 325,000, residence nil-rate band GBP 175,000, frozen to April 2031 (reported by Deloitte and trade press after Autumn Budget 2025; confirm on gov.uk)
-- [ ] SRA price transparency rules; Legal Ombudsman time limits; VAT treatment
+- [ ] SRA price transparency (summarised in the cost page from SRA guidance seen via search); Legal Ombudsman limits (one year / six months from final response, secondary sources); VAT treatment
 
 ## Lead form, privacy and referral disclosure
 - [ ] Lawful basis for passing leads to solicitors (consent vs legitimate interests)
@@ -33,7 +33,7 @@ gov.uk was unreachable when written. Law-firm summaries report the following; co
 - [ ] Data sharing agreement with each solicitor
 - [ ] Cookie notice (depends on build)
 - [ ] Remove or keep the free-text field (health data risk)
-- [ ] SRA referral-fee disclosure wording and rule references (paragraph numbers not verified)
+- [ ] SRA referral-fee disclosure wording; paragraphs 5.1 to 5.3 (solicitors) and 7.1(b) (firms) now mentioned from an SRA warning notice found via search; solicitor to confirm current text
 - [ ] "Does not increase the price you pay" and "all solicitors SRA regulated" true for every partner
 - [ ] Whether the lead-generation activity needs authorisation
 - [ ] ASA/CAP rules on price claims
